@@ -1,6 +1,6 @@
 # DRF WEB API
-To Do list api with User Registration, Login and full CRUD functionality using REST APIs,JWTs and mssql database.
-a sample web api using drf and sql database.
+To Do list api with User Registration, Login and full CRUD functionality using REST APIs, JWTs and mssql database.
+
 ## Structure
 In a RESTful API, endpoints (URLs) define the structure of the API and how end users access data from our application using the HTTP methods - GET, POST, PUT, DELETE.
 
